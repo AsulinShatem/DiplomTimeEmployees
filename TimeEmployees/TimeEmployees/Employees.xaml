@@ -1,0 +1,29 @@
+﻿<Window x:Class="TimeEmployees.Employees"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeEmployees"
+        mc:Ignorable="d"
+        Title="Сотрудники" Height="450" Width="800" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid HorizontalAlignment="Right" Width="150" Margin="0,0,-2,-2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="6*" />
+            </Grid.RowDefinitions>
+            <Button Content="Добавить" Grid.Column="1" Click="Add_Click"/>
+            <Button Content="Редактировать"  Grid.Column="1" Grid.Row="1" Click="Edit_Click" />
+            <Button Content="Удалить" Grid.Column="1" Grid.Row="2" Click="Del_Click" />
+        </Grid>
+
+        <DataGrid x:Name="dg" HorizontalAlignment="Left" Height="409" VerticalAlignment="Top" Width="637" IsReadOnly="True" ColumnWidth="*"
+                AutoGeneratingColumn="dataGrid_AutoGeneratingColumns" />
+
+    </Grid>
+</Window>

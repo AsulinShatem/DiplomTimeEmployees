@@ -1,0 +1,83 @@
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.exe.config
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.exe
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.pdb
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.SuggestedBindingRedirects.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\Departments.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\DepartmentsEdit.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\MainWindow.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\App.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees_MarkupCompile.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees_MarkupCompile.lref
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\Departments.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\DepartmentsEdit.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\MainWindow.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.g.resources
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.Properties.Resources.resources
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.GenerateResource.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.CoreCompileInputs.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.exe
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.pdb
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\Employees.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\EmployeesEdit.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\Employees.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\EmployeesEdit.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\Auth.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\Auth.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\MainWindowEmployee.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\MainWindowEmployee.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.AssemblyReference.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.exe.config
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.exe
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.pdb
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.AssemblyReference.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.SuggestedBindingRedirects.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\Auth.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\Departments.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\DepartmentsEdit.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\Employees.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\EmployeesEdit.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\MainWindow.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\MainWindowEmployee.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\App.g.cs
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees_MarkupCompile.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees_MarkupCompile.lref
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\Auth.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\Departments.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\DepartmentsEdit.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\Employees.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\EmployeesEdit.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\MainWindow.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\MainWindowEmployee.baml
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.g.resources
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.Properties.Resources.resources
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.GenerateResource.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.CoreCompileInputs.cache
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.exe
+D:\Фриланс\Free-lance.ru\Учет рабочего времени C# WPF MS SQL Server\Готовая работа\Исходники\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.pdb
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.exe.config
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.exe
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\bin\Debug\TimeEmployees.pdb
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\Auth.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\Departments.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\DepartmentsEdit.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\Employees.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\EmployeesEdit.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\MainWindowEmployee.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees_MarkupCompile.cache
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees_MarkupCompile.lref
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\Auth.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\Departments.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\DepartmentsEdit.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\Employees.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\EmployeesEdit.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\MainWindowEmployee.baml
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.g.resources
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.Properties.Resources.resources
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.exe
+C:\Users\User\Desktop\TimeEmployees\TimeEmployees\obj\Debug\TimeEmployees.pdb
